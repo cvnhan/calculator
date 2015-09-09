@@ -1,4 +1,4 @@
-package com.nhancv.calculator;
+package com.nhancv.calcu;
 
 /**
  * Created by NhanCao on 09-Sep-15.
